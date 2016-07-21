@@ -1,5 +1,5 @@
 
-<p>address: http://zhuxinyue909.github.io/CIS-565-Final-WebGL-MIS/</p>
+<p>address: http://zhuxinyue909.github.io/test/</p>
 
 
 
